@@ -5,7 +5,7 @@
 <img width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wlqb851jhx3hbd7kviw6g4dusbs9aq1xgtdfkoe3&rid=giphy.gif&ct=g" />
 
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently working on **Zeromax inc**
 
 - 👨‍💻 All of my projects are available at [http://aerkinov.pro](http://aerkinov.pro)
 
