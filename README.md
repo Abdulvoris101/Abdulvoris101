@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulvoris</h1>
 <h3 align="center">I'm Full stack developer</h3>
-<p align="left"> <a href="https://twitter.com/abdulvoris101" target="blank"><img src="https://img.shields.io/twitter/follow/abdulvoris101?logo=twitter&style=for-the-badge" alt="abdulvoris101" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aerk1nov" target="blank"><img src="https://img.shields.io/twitter/follow/abdulvoris101?logo=twitter&style=for-the-badge" alt="abdulvoris101" /></a> </p>
 
 <img width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wlqb851jhx3hbd7kviw6g4dusbs9aq1xgtdfkoe3&rid=giphy.gif&ct=g" />
 
